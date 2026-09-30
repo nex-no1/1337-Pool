@@ -14,3 +14,4 @@ char *ft_strlowcase(char *str) {
 // 	char str[] = "HeLLow- WORld \t";
 // 	printf("%s\n", ft_strlowcase(str));
 // }
+

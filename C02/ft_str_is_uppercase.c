@@ -14,3 +14,4 @@ int ft_str_is_uppercase(char *str) {
 // 	printf("first: %d\n", ft_str_is_uppercase(str1));
 // 	printf("second: %d\n", ft_str_is_uppercase(str2));
 // }
+

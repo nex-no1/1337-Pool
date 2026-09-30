@@ -14,3 +14,4 @@ char *ft_strupcase(char *str) {
 // 	char str[] = "Hellow- WORld \n";
 // 	printf("%s\n", ft_strupcase(str));
 // }
+

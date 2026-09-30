@@ -15,3 +15,4 @@ char *ft_strcpy(char *dest, char *src) {
 // 	char dest[11];
 // 	printf("%s\n", ft_strcpy(dest, src));
 // }
+

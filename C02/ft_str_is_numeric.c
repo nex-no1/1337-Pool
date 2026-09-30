@@ -14,3 +14,4 @@ int ft_str_is_numeric(char *str) {
 // 	printf("first: %d\n", ft_str_is_numeric(str1));
 // 	printf("second: %d\n", ft_str_is_numeric(str2));
 // }
+

@@ -23,3 +23,4 @@ char *ft_strncpy(char *dest, char *src, unsigned int n) {
 // 	printf("dest: %s\n", dest);
 // 	printf("After: %s\n", ft_strncpy(dest, src, 8));
 // }
+

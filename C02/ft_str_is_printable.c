@@ -14,3 +14,4 @@ int ft_str_is_printable(char *str) {
 // 	printf("first: %d\n", ft_str_is_printable(str1));
 // 	printf("second: %d\n", ft_str_is_printable(str2));
 // }
+
